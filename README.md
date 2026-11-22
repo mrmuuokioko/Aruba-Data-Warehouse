@@ -1,8 +1,8 @@
 
-# Data Warehouse and Analytics Project
+# Aruba Data Warehouse and Analytics Project
 
-Welcome to the **Data Warehouse and Analytics Project** repository! 🚀  
-This project showcases a comprehensive data warehousing and analytics solution, spanning the development of a data warehouse to the generation of actionable insights. Designed as a portfolio project, it highlights industry best practices in data engineering and analytics.
+Welcome to the **Aruba Data Warehouse and Analytics Project** repository! 🚀  
+This project showcases a comprehensive data warehousing and analytics solution. It involves the development of a data warehouse and the generation of actionable insights. Designed as a portfolio project, it highlights industry best practices in data engineering and analytics.
 
 ---
 ## 🏗️ Data Architecture
@@ -35,10 +35,10 @@ This project involves:
 
 ## 🚀 Project Requirements
 
-### Building the Data Warehouse (Data Engineering)
+### Building the Data Warehouse
 
 #### Objective
-Develop a modern data warehouse using SQL Server to consolidate sales data, enabling analytical reporting and informed decision-making.
+Develop a modern data warehouse using SQL Server to consolidate sales data for analytical reporting and informed decision-making.
 
 #### Specifications
 - **Data Sources**: Import data from two source systems (ERP and CRM) provided as CSV files.
@@ -49,7 +49,7 @@ Develop a modern data warehouse using SQL Server to consolidate sales data, enab
 
 ---
 
-### BI: Analytics & Reporting (Data Analysis)
+### Business Intelligence: Analytics & Reporting 
 
 #### Objective
 Develop SQL-based analytics to deliver detailed insights into:
@@ -57,7 +57,7 @@ Develop SQL-based analytics to deliver detailed insights into:
 - **Product Performance**
 - **Sales Trends**
 
-These insights empower stakeholders with key business metrics, enabling strategic decision-making.  
+These insights provide stakeholders with key business metrics for strategic decision-making.  
 
 ## 📂 Repository Structure
 ```
