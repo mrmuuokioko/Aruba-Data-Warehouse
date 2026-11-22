@@ -58,6 +58,7 @@ Develop SQL-based analytics to deliver detailed insights into:
 - **Sales Trends**
 
 These insights provide stakeholders with key business metrics for strategic decision-making.  
+[SQL analytics scripts](https://github.com/mrmuuokioko/Aruba-SQL-Data-Analytics/tree/main/scripts)
 
 ## 📂 Repository Structure
 ```
